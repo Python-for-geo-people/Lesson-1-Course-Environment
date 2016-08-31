@@ -7,7 +7,7 @@ To activate your account, follow these steps:
 
  1. Follow the activation link that was send to you by the course lecturer: 
  
-    <img src="https://github.com/Python-for-geo-people/Intro-to-Python-I/blob/master/img/1_email_activation_link.PNG" width="200">
+    <img src="https://github.com/Python-for-geo-people/Intro-to-Python-I/blob/master/img/1_email_activation_link.PNG" width="800">
  
  2. Handle some insecure connection warnings.
   
