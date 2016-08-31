@@ -8,9 +8,9 @@ that is based on principles of cloud computing.
 
 The course environment is comprised of three components that will be used actively during the course:
  
- - Computing Dashboard 
- - Computer Instance
- - Github  
+ - **Computing Dashboard** 
+ - **Computer Instance**
+ - **GitHub (+ Git)**  
 
 You can use the course environment by any computer at the university and also from your own computer. All you need is a working internet connection,
 web browser and a specific [Remote Desktop software](https://en.wikipedia.org/wiki/Remote_desktop_software) that comes with every computer.
@@ -30,9 +30,9 @@ that you can use in a similar manner as you would use your own computer.
 The difference is that the computer is located in the 'cloud' i.e. it is physically located and run in somewhere else 
 (basically on the servers of [CSC Finland](https://www.csc.fi/home)) and you use it remotely from any computer with an internet connection.
 
-## Github
+## GitHub
 
-Some info about Github and a link to a page where guide for creating a Github account and logging in + idea about Github Classroom  
+Some info about GitHub and a link to a page where guide for creating a GitHub account and logging in + idea about GitHub Classroom  
 
 ## Next steps
 
