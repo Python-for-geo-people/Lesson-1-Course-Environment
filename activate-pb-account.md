@@ -5,9 +5,9 @@ This needs to be done only once when the course starts. ***Note**: If you alread
 
 To activate your account, follow these steps:
 
- 1. Follow the activation link that was send to you by the course lecturer. 
+ 1. Follow the activation link that was send to you by the course lecturer: 
  
- ![Activation link](img/1_email_activation_link.PNG)
+    ![Activation link](img/1_email_activation_link.PNG =20x20)
  
  2. Handle some insecure connection warnings.
   
