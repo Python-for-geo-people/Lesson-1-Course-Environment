@@ -15,10 +15,10 @@ The course environment is easy to use and access but there are few things that n
 
 Here are the steps that you need to follow:
 
- 1. [Activate your account to the course environment for the very first time (done only once)](activate-pb-account.md)
+ 1. [Activate your account to the course environment\*\*](activate-pb-account.md)
  
  2. [Log into the course environment and start the computer](log-in-to-pb-and-access.md)
  
  3. [Connect to the course environment from you local computer](log-in-to-pb-and-access.md#access)
  
-
+\*\* done only once when starting the course
