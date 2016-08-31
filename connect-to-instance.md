@@ -29,7 +29,7 @@ where they are installed on the computers. If you want, you can also [download](
 this tool to your own computer. 
 
 [Remote Desktop Connection](https://support.microsoft.com/en-us/help/17463/windows-7-connect-to-another-computer-remote-desktop-connection) -tool is 
-another remote desktop software that comes with every Windows computer. It is more simple but has slightly 'un-smoothier' user experience when in use 
+another remote desktop software that comes with every Windows computer. It is more simple but has slightly less smooth user experience when in use 
 compared to TightVNC. However, it is highly recommendable option since it can be used from any Windows computer 
 (e.g. from the computers in the University's libraries or your own Windows computer) without any additional installation.  
   
