@@ -13,19 +13,19 @@ To activate your account, follow these steps:
  
     ![Add certificate exception](img/2_activate_certificate_exception.PNG)
   
- 3. Create a password for your account (remember this as you are needing it often)
+ 3. **Create a password for your account** (remember this as you are needing it often)
  
     ![Create password](img/3_create_password.PNG)
  
- 4. Log into the Pouta Blueprint dashboard
+ 4. **Log into the Pouta Blueprint dashboard**
  
     ![Log into PB](img/4_log_in.PNG)
  
- 5. Create SSH keys
+ 5. **Create SSH keys**
  
     ![Create SSH Keypair](img/5_create_ssh_keys.PNG)
  
- 6. Log out
+ 6. **Log out**
  
     ![Log out](img/7_log_out.PNG)
     
