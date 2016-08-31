@@ -40,7 +40,7 @@ There are slightly different ways of accessing the cloud computer instance depen
  
 Below are instructions how to access the computer instance on different systems (choose the one that you have). 
 
-### Copy and paste the IP address of your computer instance
+### 2.1 Copy and paste the IP address of your computer instance
 
 This step is common for all operating systems.
  
@@ -49,9 +49,9 @@ We won't be needing the rest of the information mentioned there. *(They are used
 
  ![Copy IP address of the computer instance](img/13_copy_access_IP_address.PNG)
 
-### Connect to computer instance on Windows
+### 2.2A Connect to computer instance on Windows
 
 
 
-### Connect to computer instance on Mac / Linux
+### 2.2B Connect to computer instance on Mac / Linux
   
