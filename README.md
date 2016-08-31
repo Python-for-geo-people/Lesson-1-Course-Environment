@@ -20,12 +20,13 @@ The course environment is easy to use and access but there are few things that y
 ## Computing Dashboard
 
 Computing dashboard is a specific web interface for managing computer instances that is used frequently during the course. 
-From the dashboard you will launch a new [computer instance](#instance) (i.e a cloud computer) every time we are doing any programming during the lectures 
-or practicals. You will do all the work using that computer instance. 
+From the dashboard you will launch a new [computer instance](#instance) (i.e a cloud computer) every time we are doing 
+any programming during the lectures or practicals. You will do all the work using such computer instance. 
 
 ##<a name='instance'> Computer Instance
 
-Computer instance is basically a Linux Ubuntu computer that you can use in a similar manner as you would use your own computer. 
+Computer instance is basically a Linux Ubuntu computer (tailored for this course)
+that you can use in a similar manner as you would use your own computer. 
 The difference is that the computer is located in the 'cloud' i.e. it is physically located and run in somewhere else 
 (basically on the servers of [CSC Finland](https://www.csc.fi/home)) and you use it remotely from any computer with an internet connection.
 
