@@ -69,7 +69,7 @@ compared to TightVNC. However, it is highly recommendable option since it can be
 
  1. Start the tool by clicking the Windows Start button and searching it with word 'Etätyöpöytäyhteys' (or 'Remote Desktop Connection' in english)
   
-  ![Open Remote Desktop Connection](img/14_open_remote_desktop.PNG)
+  <img source="https://github.com/Python-for-geo-people/Intro-to-Python-I/blob/master/img/14_open_remote_desktop.PNG" width=400>
   
  2. Paste the IP address of your computer instance that you copied in the previous step (2.1) and press 'Yhdistä' (eng. 'Connect')
   
