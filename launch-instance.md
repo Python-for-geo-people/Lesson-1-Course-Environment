@@ -21,4 +21,4 @@ Launching a new instance is a straightforward procedure which is done from the C
 Steps 5 and 6 are done to open a port to the computer instance from your local computer. A port in a computer is a somewhat similar idea than 
 having a door in a house: you cannot access the house without having an open door.
  
-Next step is to [connect to it](connect-to-instance.md).
+Next step is to [connect to it](connect-to-instance/).
