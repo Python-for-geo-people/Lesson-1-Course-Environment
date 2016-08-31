@@ -1,4 +1,4 @@
-# Connect to the computer instance
+# 2. Connect to the computer instance
 
 There are basically two steps that you need to do for being able to connect to a remote (cloud) computer instance: 1) find out the 
 IP address of the (running) computer instance and 2) connect to it with Remote Desktop software at your local computer. 
@@ -10,7 +10,7 @@ There are slightly different ways of accessing the cloud computer instance that 
  
 Below are instructions how to access the computer instance on different systems (follow the one that you have). 
 
-## 1. Copy the IP address of your computer instance
+## 2.1 Copy the IP address of your computer instance
 
 This step is common for all operating systems.
  
@@ -20,7 +20,7 @@ We won't be needing the rest of the information mentioned there.
 
  ![Copy IP address of the computer instance](img/13_copy_access_IP_address.PNG)
 
-## 2A Connect to computer instance on Windows
+## 2.2A Connect to computer instance on Windows
 
 On Windows we introduce two different softwares that can be used for connecting the remote computer, namely **'TightVNC Viewer'** and a 
 **'Remote Desktop Connection'** -tool (in finnish 'Etätyöpöytäyhteys'). [TightVNC Viewer](http://www.tightvnc.com/) is freely available 
@@ -55,6 +55,6 @@ compared to TightVNC. However, it is highly recommendable option since it can be
  
   ![Inside the remote computer](img/17_work_environment.PNG)
 
-## 2B Connect to computer instance on Mac / Linux
+## 2.2B Connect to computer instance on Mac / Linux
   
   - Add docs here 
