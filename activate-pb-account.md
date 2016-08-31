@@ -17,6 +17,7 @@ To activate your account, follow these steps:
  
  
  
+ 
  4. Log into the Pouta Blueprint dashboard
  
  5. Create SSH keys 
