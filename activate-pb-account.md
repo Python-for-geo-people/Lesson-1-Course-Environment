@@ -5,15 +5,17 @@ This needs to be done only once when the course starts. ***Note**: If you alread
 
 To activate your account, follow these steps:
 
- 1. Follow the activation link that was send to you by the course lecturer (example): 
+ 1. **Follow the activation link that was send to you by the course lecturer** (example): 
  
     <img src="https://github.com/Python-for-geo-people/Intro-to-Python-I/blob/master/img/1_email_activation_link.PNG" width="400">
  
- 2. Handle some insecure connection warnings.
+ 2. **Handle some insecure connection warnings.**
  
     ![Add certificate exception](img/2_activate_certificate_exception.PNG)
   
  3. Create a password for your account
+ 
+ 
  
  4. Log into the Pouta Blueprint dashboard
  
