@@ -30,8 +30,8 @@ To activate your account, follow these steps:
     ![Log out](img/6_log_out.PNG)
     
 
-After these steps you are done with activating your account and you can continue with launching your course environment 
-following **[these instructions](log-in-to-pb-and-access.md)**.
+After these steps you are done with activating your account and you can continue with launching your first Computer Instance 
+following **[these instructions](launch-instance.md)**.
  
 
 
