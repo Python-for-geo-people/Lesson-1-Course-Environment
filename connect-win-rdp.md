@@ -1,4 +1,4 @@
-# Connect to Computer Instance with Windows Remote Desktop Connection -tool 
+# Windows: Connect to remote Computer Instance with Remote Desktop Connection -tool 
 
 1. Start the tool by clicking the Windows Start button and searching it with word 'Etätyöpöytäyhteys' (or 'Remote Desktop Connection' in english)
   

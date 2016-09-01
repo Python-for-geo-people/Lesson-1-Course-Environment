@@ -10,7 +10,7 @@ There are slightly different ways of accessing the cloud computer instance that 
  
 Below are instructions how to access the computer instance on different systems (follow the one that you have). 
 
-## 2.1 Copy the IP address of your computer instance
+##<a name="CopyIP"></a> 2.1 Copy the IP address of your computer instance
 
 This step is common for all operating systems.
  
@@ -33,7 +33,7 @@ another remote desktop software that comes with every Windows computer. It is mo
 compared to TightVNC. However, it is highly recommendable option since it can be used from any Windows computer 
 (e.g. from the computers in the University's libraries or your own Windows computer) without any additional installation.  
   
-**1. Connecting with TightVNC Viewer -software**
+**1. [Connecting with TightVNC Viewer -software]()**
  
 **2. [Connecting with Remote Desktop Connection -tool](connect-win-rdp.md)**
 
