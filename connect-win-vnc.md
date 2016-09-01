@@ -9,7 +9,7 @@ after the IP address separated with colon so that it will look like `xxx.xxx.xx.
 
  ![Fill in the IP address](img/15b_copy-ip-address-connect.PNG)
 
-3. Fill in the password `geoman`, and  press `Connect`
+3. Fill in the password `geoman`, and  press `OK`
  
  ![Fill password](img/16b_fill-in-password.PNG)
 
