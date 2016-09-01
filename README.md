@@ -25,10 +25,10 @@ any programming during the lectures or practicals. You will do all the work usin
 
 ## Computer Instance
 
-Computer instance is basically a Linux Ubuntu computer (tailored for this course)
+Computer instance is basically a **temporary** Linux Ubuntu computer (tailored for this course)
 that you can use in a similar manner as you would use your own computer. 
 The difference is that the computer is located in the 'cloud' i.e. it is physically located and run in somewhere else 
-(basically on the servers of [CSC Finland](https://www.csc.fi/home)) and you use it remotely from any computer with an internet connection.
+(basically on the servers of [CSC Finland](https://www.csc.fi/home)) and you use it remotely from any computer with an internet connection. 
 
 ## Git + GitHub
 
@@ -45,6 +45,18 @@ collaborators that are working on a same project. GitHub provides a nice web-int
 It is a nice way for exploring the codes and documentations or e.g. teaching materials such as these in our course. 
 
 Both Git and GitHub provide much more features than the ones mentioned here but for now we are happy to understand the basic idea of what they are. 
+
+## Workflow
+
+The figure below illustrates the basic workflow that we will be doing throughout this course. We will be using actively all of the aforementioned components, 
+i.e. we will:
+ 
+ 1-2. launch Computer Instances from the Computing Dashboard
+ 3. Connect and work in temporary remote computer instance
+ 4. Download course materials from GitHub
+ 5. Save our work permanently to GitHub after every lecture or practicals
+  
+ ![Workflow](img/RemoteComputerInstance.png)
 
 ## Next steps
 
