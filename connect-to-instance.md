@@ -33,7 +33,7 @@ another remote desktop software that comes with every Windows computer. It is mo
 compared to TightVNC. However, it is highly recommendable option since it can be used from any Windows computer 
 (e.g. from the computers in the University's libraries or your own Windows computer) without any additional installation.  
   
-**1. [Connecting with TightVNC Viewer -software]()**
+**1. [Connecting with TightVNC Viewer -software](connect-win-vnc.md)**
  
 **2. [Connecting with Remote Desktop Connection -tool](connect-win-rdp.md)**
 
