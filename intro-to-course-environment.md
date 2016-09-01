@@ -1,15 +1,16 @@
 # Introduction to the course environment
 
 We'll start using the course environment by creating and activating a Computing Dashboard account and launching our first Computer Instance. 
+You will do the steps 2-3 repeatedly during the course so it will become familiar to you after awhile. 
 
 Here are the steps that you need to follow:
 
  1. [Activate your account to the computing dashboard\*\*](activate-pb-account.md)
  
- 2. [Log into the Computing Dashboard and start the computer instance](log-in-to-pb-and-access.md)
+ 2. [Log into the Computing Dashboard and launch a Computer Instance](launch-instance.md)
  
- 3. [Connect to the computer instance from you local computer](log-in-to-pb-and-access.md#access)
- 
+ 3. [Connect to Computer Instance from you local computer](connect-to-instance.md)
+
 \*\*done only once when starting the course
 
 ## Some basic principles about the course environment

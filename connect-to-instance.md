@@ -43,11 +43,11 @@ compared to TightVNC. However, it is highly recommendable option since it can be
   
   <img src="https://github.com/Python-for-geo-people/Intro-to-Python-I/blob/master/img/14_open_remote_desktop.PNG" width="400">
   
- 2. Paste the IP address of your computer instance that you copied in the previous step (2.1) and press 'Yhdistä' (eng. 'Connect')
+ 2. Paste the `IP address` of your computer instance that you copied in the previous step (2.1) and press `Yhdistä` (eng. 'Connect')
   
   ![Fill in the IP address](img/15_paste_ip_to_remote_desktop.PNG)
   
- 3. Log into the computer instance by pressing OK.
+ 3. `Login` to the computer instance by pressing OK.
  
   ![Press ok](img/16_log_into_server.PNG)
  
