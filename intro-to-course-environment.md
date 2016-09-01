@@ -11,7 +11,7 @@ permanently to the cloud computer
 
   - After finishing the lecture or doing the exercises the course environment will be 'Destroyed'
   - After finishing your day, you should always 'Destroy' your course environment by yourself from the Pouta Blueprints Dashboard.
-  - Notice: when the life-time of the computer instance is finished the system will automatically 'Destroy' your Computer Instance and EVERYTHING in it.
+  - **Notice**: when the life-time of the computer instance is finished the system will automatically 'Destroy' your Computer Instance and EVERYTHING in it.
 
 ## Let's start
 
