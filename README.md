@@ -51,10 +51,11 @@ Both Git and GitHub provide much more features than the ones mentioned here but 
 The figure below illustrates the basic workflow that we will be doing throughout this course. We will be using actively all of the aforementioned components, 
 i.e. we will:
  
- 1-2. launch Computer Instances from the Computing Dashboard
- 3. Connect and work in temporary remote computer instance
- 4. Download course materials from GitHub
- 5. Save our work permanently to GitHub after every lecture or practicals
+ 1. connect to Computing Dashboard, 
+ 2. launch a Computer Instance from there,
+ 3. connect to our temporary remote computer instance,
+ 4. download the course materials from GitHub,
+ 5. save our work permanently to GitHub after every lecture or practicals
   
  ![Workflow](img/RemoteComputerInstance.png)
 
