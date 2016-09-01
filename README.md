@@ -12,7 +12,6 @@ web browser and a specific [Remote Desktop software](https://en.wikipedia.org/wi
 
  1. [Basic concepts, components and workflow of the course environment](course-environment-components.md) 
  2. [Introduction to the basic usage of the course environment](intro-to-course-environment.md)
- 3. [Introduction to Git and GitHub]() 
 
 
 
