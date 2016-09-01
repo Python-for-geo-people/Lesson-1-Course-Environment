@@ -11,7 +11,7 @@ having a door in a house: you cannot access the house without having an open doo
  
    ![Login to Computing Dashboard](img/7_log_in.PNG)
  
- 3. `Launch new` computer instance
+ 3. **`Launch new` computer instance**
  
     <img src="https://github.com/Python-for-geo-people/Intro-to-Python-I/blob/master/img/8_launch_instance.PNG" width="500">
  
