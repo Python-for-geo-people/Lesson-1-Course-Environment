@@ -2,7 +2,7 @@
 
 ## Some basic principles about the course environment
 
-- You will launch a new cloud computer every time you're on a lecture or start doing the exercises.
+- You will launch a new cloud computer instance every time you're on a lecture or start doing the exercises.
 
 - You will **ALWAYS** download the course materials from GitHub
 
