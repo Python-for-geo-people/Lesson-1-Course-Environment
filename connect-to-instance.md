@@ -22,7 +22,7 @@ We won't be needing the rest of the information mentioned there.
 
 ## 2.2A Connect to computer instance on Windows
 
-On Windows we introduce two different softwares that can be used for connecting the remote computer, namely **'TightVNC Viewer'** and a 
+On Windows we introduce two different ways and softwares that can be used for connecting the remote computer, namely **'TightVNC Viewer'** and a 
 **'Remote Desktop Connection'** -tool (in finnish 'Etätyöpöytäyhteys'). [TightVNC Viewer](http://www.tightvnc.com/) is freely available 
 and open source remote desktop software that has some nice features and is smooth to use. We will be using this tool in the GIS labs 
 where they are installed on the computers. If you want, you can also [download](http://www.tightvnc.com/download.php) and install 
@@ -33,11 +33,11 @@ another remote desktop software that comes with every Windows computer. It is mo
 compared to TightVNC. However, it is highly recommendable option since it can be used from any Windows computer 
 (e.g. from the computers in the University's libraries or your own Windows computer) without any additional installation.  
   
-**Connecting with TightVNC Viewer -software**
+ **1. Connecting with TightVNC Viewer -software**
     
   - add docs
   
-**[Connecting with Remote Desktop Connection -tool](connect-win-rdp.md)**
+ **2. [Connecting with Remote Desktop Connection -tool](connect-win-rdp.md)**
 
 ## 2.2B Connect to computer instance on Mac / Linux
   
