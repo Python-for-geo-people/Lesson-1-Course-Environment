@@ -57,7 +57,8 @@ i.e. we will:
  4. download the course materials from GitHub,
  5. save our work permanently to GitHub after every lecture or practicals
   
- ![Workflow](img/RemoteComputerInstance.png)
+ <img src="https://github.com/Python-for-geo-people/Intro-to-Python-I/blob/master/img/RemoteComputerInstance.png" width="600"> 
+ 
 
 ## Next steps
 
