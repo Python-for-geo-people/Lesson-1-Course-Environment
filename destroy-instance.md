@@ -17,7 +17,7 @@ If you have saved your work to GitHub, destroy the instance by following these s
  1. Login to your Computing Dashboard ==> [https://pb.geo.helsinki.fi](https://pb.geo.helsinki.fi)
  2. Destroy the running instance by pressing `Destroy` button
  
- ![Destroy instance](img/18_destroy_instance.PNG)
+ <img src="https://github.com/Python-for-geo-people/Intro-to-Python-I/blob/master/img/18_destroy_instance.PNG" width="500">
  
 **IMPORTANT NOTICE** The Computer Instance will destroy itself automatically after it's life-time (X hours) has run out. Be sure to save your work before instance is
 terminated.
