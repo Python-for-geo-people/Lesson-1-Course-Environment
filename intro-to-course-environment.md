@@ -11,7 +11,6 @@ permanently to the cloud computer
 
 - There is a fixed 'life-time' allocated (6 hours) for each computer instance
 
-  - After finishing the lecture or doing the exercises the course environment will be 'Destroyed'
   - After finishing your day, you should always 'Destroy' your course environment by yourself from the Pouta Blueprints Dashboard.
   - **Notice**: when the life-time of the computer instance is finished the system will automatically 'Destroy' your Computer Instance and EVERYTHING in it.
 
