@@ -1,5 +1,11 @@
 # Components of the course environment 
 
+*This stuff should be mentioned somewhere here...*
+
+*You can use the course environment from any computer at the university and also from your own computer. All you need is a working internet connection,
+web browser and a specific [Remote Desktop software](https://en.wikipedia.org/wiki/Remote_desktop_software) that comes with every computer.*
+
+
 The course environment is easy to use and access but there are few things that you need to understand before starting to use it.
 
 The course environment is comprised of three components that will be used actively during the course:
