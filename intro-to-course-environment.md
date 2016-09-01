@@ -4,6 +4,8 @@
 
 - You will launch a new cloud computer every time you're on a lecture or start doing the exercises.
 
+- You will **ALWAYS** download the course materials from GitHub
+
 - You will **ALWAYS** save everything you have done (codes, figures, data, etc.) on your private GitHub account because they can't be saved 
 permanently to the cloud computer 
 
