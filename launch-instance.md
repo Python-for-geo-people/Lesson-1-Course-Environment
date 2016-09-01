@@ -5,7 +5,7 @@ Here we first launch a new Computer Instance and then open a port to it from you
 A port in a computer is a somewhat similar idea than 
 having a door in a house: you cannot access the house without having an open door.
 
- 1. Go with a browser to **[pb.geo.helsinki.fi](pb.geo.helsinki.fi)** 
+ 1. Go with a browser to **[https://pb.geo.helsinki.fi](https://pb.geo.helsinki.fi)** 
     
     - You might want to bookmark this page to your web browser as we are going to this address often. 
  
