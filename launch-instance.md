@@ -6,6 +6,8 @@ A port in a computer is a somewhat similar idea than
 having a door in a house: you cannot access the house without having an open door.
 
  1. Go with a browser to **[pb.geo.helsinki.fi](pb.geo.helsinki.fi)** 
+    
+    - You might want to bookmark this page to your web browser as we are going to this address often. 
  
  2. **Sign in to the Computing Dashboard**
  
