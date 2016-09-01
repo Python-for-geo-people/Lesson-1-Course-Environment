@@ -4,7 +4,7 @@ Part I of an introduction to Python.
 # Course Environment
 
 In this course we will be doing our exercises and learn coding by using a specific course environment 
-that is based on principles of cloud computing. 
+that is based on principles of [cloud computing](https://en.wikipedia.org/wiki/Cloud_computing). 
 
 The course environment is comprised of three components that will be used actively during the course:
  
