@@ -3,14 +3,14 @@ Part I of an introduction to Python.
 
 # Course Environment
 
-In this course we will be doing our exercises and learn coding by using a specific course environment 
+In this course we will be doing our exercises and learn programming by using a specific course environment 
 that is based on principles of [cloud computing](https://en.wikipedia.org/wiki/Cloud_computing). 
 
 The course environment is comprised of three components that will be used actively during the course:
  
  - **Computing Dashboard** 
  - **Computer Instance**
- - **GitHub (+ Git)**  
+ - **Git + GitHub**  
 
 You can use the course environment by any computer at the university and also from your own computer. All you need is a working internet connection,
 web browser and a specific [Remote Desktop software](https://en.wikipedia.org/wiki/Remote_desktop_software) that comes with every computer.
@@ -19,20 +19,32 @@ The course environment is easy to use and access but there are few things that y
 
 ## Computing Dashboard
 
-Computing dashboard is a specific web interface for managing computer instances that is used frequently during the course. 
-From the dashboard you will launch a new [computer instance](#instance) (i.e a cloud computer) every time we are doing 
+Computing dashboard is a specific web interface for managing computer instances. We will is use it frequently during the course. 
+From the dashboard you will launch a new computer instance instance (i.e a cloud computer) every time we are doing 
 any programming during the lectures or practicals. You will do all the work using such computer instance. 
 
-##<a name='instance'> Computer Instance
+## Computer Instance
 
 Computer instance is basically a Linux Ubuntu computer (tailored for this course)
 that you can use in a similar manner as you would use your own computer. 
 The difference is that the computer is located in the 'cloud' i.e. it is physically located and run in somewhere else 
 (basically on the servers of [CSC Finland](https://www.csc.fi/home)) and you use it remotely from any computer with an internet connection.
 
-## GitHub
+## Git + GitHub
 
-Some info about GitHub and a link to a page where guide for creating a GitHub account and logging in + idea about GitHub Classroom  
+One of the core components of this course (besides learning programming) is to learn how to use [version control](https://en.wikipedia.org/wiki/Version_control)
+by using Git and sharing the codes (privately) in GitHub.
+ 
+[Git](https://en.wikipedia.org/wiki/Git_\(software\)) is a version control software (develop by a famous Finn called Linus Torvalds) that is used 
+to track changes in your codes (or whole code repository a.k.a git) without overwriting any part of the earlier changes. 
+It is widely used by the professionals to keep track of what they’ve done and to collaborate with other people.
+
+[GitHub](https://github.com/) is a web based Git repository hosting service and also a social network. It is the largest online storage space of 
+collaborative works that exists in the world. It is a place where you can share your code openly to the entire world or alternatively only to your 
+collaborators that are working on a same project. GitHub provides a nice web-interface that is easy to use. 
+It is a nice way for exploring the codes and documentations or e.g. teaching materials such as these in our course. 
+
+Both Git and GitHub provide much more features than the ones mentioned here but for now we are happy to understand the basic idea of what they are. 
 
 ## Next steps
 
