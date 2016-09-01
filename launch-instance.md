@@ -13,7 +13,7 @@ having a door in a house: you cannot access the house without having an open doo
  
  3. `Launch new` computer instance
  
-   ![Launch Computer Instance](img/8_launch_intance.PNG)
+   ![Launch Computer Instance](img/8_launch_instance.PNG)
  
  4. Wait until instance is ready (you'll see WHAT?) and 
  go to instance details by pressing it's name 
