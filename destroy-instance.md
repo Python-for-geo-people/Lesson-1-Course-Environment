@@ -19,6 +19,6 @@ If you have saved your work to GitHub, destroy the instance by following these s
  
  <img src="https://github.com/Python-for-geo-people/Intro-to-Python-I/blob/master/img/18_destroy_instance.PNG" width="500">
  
-**IMPORTANT NOTICE:** The Computer Instance will destroy itself automatically after it's life-time (X hours) has run out. Be sure to save your work before instance is
+**IMPORTANT NOTICE:** The Computer Instance will destroy itself automatically after it's life-time (6 hours) has run out. Be sure to save your work before instance is
 terminated.
  
