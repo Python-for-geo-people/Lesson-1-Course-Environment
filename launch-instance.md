@@ -13,7 +13,7 @@ having a door in a house: you cannot access the house without having an open doo
  
  3. `Launch new` computer instance
  
-    <img src="https://github.com/Python-for-geo-people/Intro-to-Python-I/blob/master/img/8_launch_instance.PNG" width="400">
+    <img src="https://github.com/Python-for-geo-people/Intro-to-Python-I/blob/master/img/8_launch_instance.PNG" width="500">
  
  4. Wait until instance is ready (you'll see WHAT?) and 
  go to instance details by pressing it's name 
@@ -23,14 +23,14 @@ having a door in a house: you cannot access the house without having an open doo
   
  5. Press `Query client IP` button
  
-   <img src="https://github.com/Python-for-geo-people/Intro-to-Python-I/blob/master/img/10_query_client_IP.PNG" width="400">
+   <img src="https://github.com/Python-for-geo-people/Intro-to-Python-I/blob/master/img/10_query_client_IP.PNG" width="500">
     
  6. Press `Change client IP` button
  
-   <img src="https://github.com/Python-for-geo-people/Intro-to-Python-I/blob/master/img/11_change_client_IP.PNG" width="400">
+   <img src="https://github.com/Python-for-geo-people/Intro-to-Python-I/blob/master/img/11_change_client_IP.PNG" width="500">
  
  7. Go back to Dashboard tab
  
-   <img src="https://github.com/Python-for-geo-people/Intro-to-Python-I/blob/master/img/12_go_back_to_dashboard.PNG" width="400">
+   <img src="https://github.com/Python-for-geo-people/Intro-to-Python-I/blob/master/img/12_go_back_to_dashboard.PNG" width="500">
      
 Next step is to **[connect to it](connect-to-instance.md)**.
