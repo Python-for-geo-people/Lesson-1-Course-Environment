@@ -27,7 +27,7 @@ To activate your account, follow these steps:
  
  6. **Log out**
  
-    ![Log out](img/7_log_out.PNG)
+    ![Log out](img/6_log_out.PNG)
     
 
 After these steps you are done with activating your account and you can continue with launching your course environment 
