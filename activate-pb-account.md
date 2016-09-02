@@ -1,7 +1,8 @@
-# Activating Pouta Blueprints account
+# Activating your Pouta Blueprints account
 
-For the very first time when starting to use the course environment, it is necessary to activate your Pouta Blueprints account and create a password for it. 
-This needs to be done only once when the course starts. ***Note**: If you already have activated your account follow the instructions [here](log-in-to-pb-and-access.md).*
+The first time using the course environment, it is necessary to activate your Pouta Blueprints account and create your password. 
+This needs to be done only once when the course starts.
+***Note**: If you already have activated your account you can continue with [logging into your Pouta Blueprints account](log-in-to-pb-and-access.md).*
 
 To activate your account, follow these steps:
 
@@ -13,7 +14,7 @@ To activate your account, follow these steps:
  
     ![Add certificate exception](img/2_activate_certificate_exception.PNG)
   
- 3. **Create a password for your account** (remember this as you are needing it often)
+ 3. **Create a password for your account** (Be sure to remember this, you will need it frequently)
  
     ![Create password](img/3_create_password.PNG)
  
@@ -21,7 +22,7 @@ To activate your account, follow these steps:
  
     ![Log into PB](img/4_log_in.PNG)
  
- 5. **Create SSH keys**
+ 5. **Create your SSH keys**
  
     ![Create SSH Keypair](img/5_create_ssh_keys.PNG)
  
@@ -30,9 +31,4 @@ To activate your account, follow these steps:
     ![Log out](img/6_log_out.PNG)
     
 
-After these steps you are done with activating your account and you can continue with launching your first Computer Instance 
-following **[these instructions](launch-instance.md)**.
- 
-
-
-
+After completing these steps you will be done with activating your account and can continue with **[launching your first Computer Instance](launch-instance.md)**.
