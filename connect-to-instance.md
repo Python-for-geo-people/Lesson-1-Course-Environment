@@ -5,7 +5,7 @@ IP address of the (running) cloud computer instance and (2) connect to it with r
 
 How you connect to the computer instance will depend on 
 
- - the operating system that you have on your local computer ([Windows](#) / MacOS / Linux) 
+ - the operating system that you have on your local computer ([Windows](#connect-to-computer-instance-on-windows) / [MacOS](#connect-to-computer-instance-on-macos) / [Linux](#connect-to-computer-instance-on-linux)) 
  - The remote desktop software (or protocol) that you are using
  
 Below are instructions how to access the computer instance on different systems (follow the one that you have). 
@@ -23,21 +23,20 @@ That information is used for taking a specific type of connection (SSH) to the c
 
 ## Connect to computer instance on Windows
 
-On Windows we introduce two different ways and softwares that can be used for connecting the remote computer, namely **'TightVNC Viewer'** and a 
-**'Remote Desktop Connection'** -tool (in finnish 'Etätyöpöytäyhteys'). [TightVNC Viewer](http://www.tightvnc.com/) is freely available 
-and open source remote desktop software that has some nice features and is smooth to use. We will be using this tool in the GIS labs 
-where they are installed on the computers. If you want, you can also [download](http://www.tightvnc.com/download.php) and install 
-this tool to your own computer. 
+On Windows we have two different ways and pieces of software that can be used for connecting the remote computer: **'TightVNC Viewer'** and the **'Remote Desktop Connection'** tool (in finnish 'Etätyöpöytäyhteys').
+[The TightVNC Viewer](http://www.tightvnc.com/) is freely available and is an open source remote desktop software that has some nice features, and it is smooth to use.
+We will be using this tool in the GIS labs where it is installed on the computers.
+If you want, you can also [download](http://www.tightvnc.com/download.php) and install this tool to your own computer. 
 
-[Remote Desktop Connection](https://support.microsoft.com/en-us/help/17463/windows-7-connect-to-another-computer-remote-desktop-connection) -tool is 
-another remote desktop software that comes with every Windows computer. It is more simple but has slightly less smooth user experience when in use 
-compared to TightVNC. However, it is highly recommendable option since it can be used from any Windows computer 
-(e.g. from the computers in the University's libraries or your own Windows computer) without any additional installation.  
-  
-**1. [Connecting with TightVNC Viewer -software](connect-win-vnc.md)**
- 
-**2. [Connecting with Remote Desktop Connection -tool](connect-win-rdp.md)**
+[The Remote Desktop Connection](https://support.microsoft.com/en-us/help/17463/windows-7-connect-to-another-computer-remote-desktop-connection) tool is another remote desktop software that comes with every Windows computer.
+It is more simple, but has slightly less smooth user experience when compared to TightVNC.
+However, it is highly recommendable option since it can be used from any Windows computer (e.g., from the computers in the University's libraries or your own Windows computer) without any additional software installation.
 
-## 2.2B Connect to computer instance on Mac / Linux
-  
-  - Add docs here 
+Details on how to connect with both pieces of software are given below.
+
+1. [Connecting with the TightVNC Viewer software](connect-win-vnc.md)
+2. [Connecting with the Remote Desktop Connection tool](connect-win-rdp.md)
+
+## Connect to computer instance on MacOS
+
+## Connect to computer instance on Linux
