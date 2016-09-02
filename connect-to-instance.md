@@ -38,5 +38,17 @@ Details on how to connect with both pieces of software are given below.
 2. [Connecting with the Remote Desktop Connection tool](connect-win-rdp.md)
 
 ## Connect to computer instance on MacOS
+The preferred way to connect to the computer instances on MacOS is to use the built-in connection tool in **Finder**.
+
+![Connect to server](img/connect-to-server.png)
+
+Once the **Connect to Server** window appears, enter the address of the computer instance to connect in the format `vnc://XXX.XXX.XXX.XXX:5901`, replacing the `XXX.XXX.XXX.XXX` with the numbers you selected and copied above in the Computing Dashboard.
+
+![Enter server info](img/enter-server-info.png)
+
+At this point you can click **Connect** and enter the password for the connection when prompted (`geoman`).
+Now you should see the desktop of your cloud computer!
 
 ## Connect to computer instance on Linux
+
+If there are users running Linux, let us know if you're not aware of how to use VNC on your machine and we can help get you connected.
