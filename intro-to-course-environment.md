@@ -19,7 +19,7 @@
 We'll start using the course environment by creating and activating your account on the Computing Dashboard, and launching our first Computer Instance.
 Then we will download course materials from GitHub to your cloud computer, do some work, and save your work back on GitHub. 
 
-**Step 0**: The first time you use the computing environment, you must [create and activate your account on the Computing Dashboard](activate-pb-account.md). **You only need to do this once**.
+- The first time you use the computing environment, you must [create and activate your account on the Computing Dashboard](activate-pb-account.md). **You only need to do this once**.
 
 Here are the remaining steps that you will follow during each lecture.
 You will do steps 1-4 below repeatedly during the course, so it will become familiar to you after a few weeks. 
