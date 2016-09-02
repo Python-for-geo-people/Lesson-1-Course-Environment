@@ -11,9 +11,9 @@ All you need is a reasonably fast internet connection, a web browser and some [r
 
 The course environment comprises three components that will be used actively during the course:
  
- 1. [The Computing Dashboard](##Computing-dashboard)
- 2. **A Computer Instance**
- 3. **Git + GitHub**  
+ 1. [The Computing Dashboard](#computing-dashboard)
+ 2. [A Computer Instance](#computer-instance)
+ 3. [Git + GitHub](#git--github)
 
 ## Computing Dashboard
 
