@@ -49,6 +49,8 @@ Once the **Connect to Server** window appears, enter the address of the computer
 At this point you can click **Connect** and enter the password for the connection when prompted (`geoman`).
 Now you should see the desktop of your cloud computer!
 
+![Cloud desktop Mac](cloud-desktop-mac.png)
+
 ## Connect to computer instance on Linux
 
 If there are users running Linux, let us know if you're not aware of how to use VNC on your machine and we can help get you connected.
