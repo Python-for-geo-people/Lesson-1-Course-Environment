@@ -49,7 +49,7 @@ Once the **Connect to Server** window appears, enter the address of the computer
 At this point you can click **Connect** and enter the password for the connection when prompted (`geoman`).
 Now you should see the desktop of your cloud computer!
 
-![Cloud desktop Mac](cloud-desktop-mac.png)
+![Cloud desktop Mac](img/cloud-desktop-mac.png)
 
 ## Connect to computer instance on Linux
 
