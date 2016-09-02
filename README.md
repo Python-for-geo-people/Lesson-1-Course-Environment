@@ -10,8 +10,16 @@ In order to start learning Python, however, we need to be introduced to the cour
 This first tutorial will introduce you to the basic structure of our course environment, guide you through how it is used, and conclude with a hands-on introduction to some key concepts and elements of programming in Python.
 The main components of this first lesson are below.
 
-# Tutorial components
+## Tutorial components
 
  1. [Basic concepts, components and workflow of the course environment](course-environment-components.md) 
  2. [Introduction to the basic usage of the course environment](intro-to-course-environment.md)
  3. [Our first taste of Python](A-taste-of-Python.md)
+
+## Resources
+- Web pages
+  - [Codecademy's Learn to program in Python](https://www.codecademy.com/learn/python)
+  - [Software Carpentry's programming in Python](https://swcarpentry.github.io/python-novice-inflammation/)
+- Books
+  - [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
+  - [Dive into Python 3](http://www.diveinto.org/python3/)
