@@ -1,4 +1,4 @@
-# 1. Launch a new computer instance
+# Launching a new computer instance
 
 Launching a new instance is a straightforward procedure which is done from the Computing Dashboard. 
 Here we first launch a new Computer Instance and then open a port to it from your local computer's IP address (steps 5-6).
