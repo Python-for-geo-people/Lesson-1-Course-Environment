@@ -17,32 +17,32 @@ The course environment comprises three components that will be used actively dur
 
 ## Computing Dashboard
 
-Computing dashboard is a specific web interface for managing computer instances. We will is use it frequently during the course. 
-From the dashboard you will launch a new computer instance instance (i.e a cloud computer) every time we are doing 
-any programming during the lectures or practicals. You will do all the work using such computer instance. 
+The computing dashboard is a web interface for managing computer instances (described below).
+We will is use it frequently during the course. 
+From the dashboard you will launch a new computer instance (i.e., start up a cloud computer) every time we are doing any programming during the lectures or practicals.
+You will do all the work in this course using such a computer instance. 
 
 ## Computer Instance
 
-Computer instance is basically a **temporary** Linux Ubuntu computer (tailored for this course)
-that you can use in a similar manner as you would use your own computer. 
-The difference is that the computer is located in the 'cloud' i.e. it is physically located and run in somewhere else 
-(basically on the servers of [CSC Finland](https://www.csc.fi/home)) and you use it remotely from any computer with an internet connection. 
+A computer instance is basically a **temporary** computer running Ubuntu Linux (tailored for this course) that you can use in a similar manner as you would use your own computer. 
+The difference is that the computer is located in the 'cloud' i.e., it is physically located and runs in somewhere else 
+(on the servers of [CSC Finland](https://www.csc.fi/home)) and you can use it remotely from any computer with an internet connection.
 
 ## Git + GitHub
 
-One of the core components of this course (besides learning programming) is to learn how to use [version control](https://en.wikipedia.org/wiki/Version_control)
-by using Git and sharing the codes (privately) in GitHub.
+One of the core components of this course (besides learning programming) is to learn how to use [version control](https://en.wikipedia.org/wiki/Version_control) with [Git](https://en.wikipedia.org/wiki/Git_\(software\)) and storing your the codes (privately) in [GitHub](https://github.com/).
  
-[Git](https://en.wikipedia.org/wiki/Git_\(software\)) is a version control software (develop by a famous Finn called Linus Torvalds) that is used 
-to track changes in your codes (or whole code repository a.k.a git) without overwriting any part of the earlier changes. 
-It is widely used by the professionals to keep track of what they’ve done and to collaborate with other people.
+[Git](https://en.wikipedia.org/wiki/Git_\(software\)) is a version control software (developped by a rather famous Finn named Linus Torvalds - he also created Linux!) that is used to track and store changes in your files (often source code for programs) without losing the history of past changes.
+Files in Git are stored in a repository, which you can simply think of as a directory containing files (or other directories) related to a single 'project'.
+Git is widely used by professionals to keep track of what they’ve done and to collaborate with other people.
 
-[GitHub](https://github.com/) is a web based Git repository hosting service and also a social network. It is the largest online storage space of 
-collaborative works that exists in the world. It is a place where you can share your code openly to the entire world or alternatively only to your 
-collaborators that are working on a same project. GitHub provides a nice web-interface that is easy to use. 
-It is a nice way for exploring the codes and documentations or e.g. teaching materials such as these in our course. 
+[GitHub](https://github.com/) is a web based Git repository hosting service and social network.
+It is the largest online storage space of collaborative works that exists in the world.
+It is a place where you can share your code openly to the entire world or alternatively only to your collaborators working on the same project.
+GitHub provides a nice web-interface to your files that is easy to use. 
+It is a nice way for exploring the codes and documentation or e.g., teaching materials such as those in our course. 
 
-Both Git and GitHub provide much more features than the ones mentioned here but for now we are happy to understand the basic idea of what they are. 
+Both Git and GitHub provide many more features than the ones mentioned here, but for now we are happy to understand the basic idea of what they are. 
 
 ## Workflow
 
