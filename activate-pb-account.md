@@ -2,7 +2,7 @@
 
 The first time using the course environment, it is necessary to activate your Pouta Blueprints account and create your password. 
 This needs to be done only once when the course starts.
-***Note**: If you already have activated your account you can continue with [logging into your Pouta Blueprints account](log-in-to-pb-and-access.md).*
+**Note**: If you already have activated your account you can continue with [launching a new computer instance](launch-instance.md).
 
 To activate your account, follow these steps:
 
