@@ -46,23 +46,22 @@ Both Git and GitHub provide many more features than the ones mentioned here, but
 
 ## Workflow
 
-The figure below illustrates the basic workflow that we will be using throughout this course. We will be using actively all of the aforementioned components, 
-i.e. we will:
+The figure below illustrates the basic workflow that we will be using throughout this course.
+We will be using actively all of the aforementioned components, i.e., we will:
  
- 1. connect to Computing Dashboard, 
- 2. launch a Computer Instance from there,
- 3. connect to our temporary remote computer instance,
- 4. download the course materials from GitHub,
- 5. save your work permanently to GitHub after every lecture or practicals
+ 1. Connect to the Computing Dashboard
+ 2. Launch a Computer Instance
+ 3. Connect to our temporary remote computer instance
+ 4. Download the course materials from GitHub
+ 5. Save your work permanently to GitHub after every lecture or practical exercise
   
  <img src="https://github.com/Python-for-geo-people/Intro-to-Python-I/blob/master/img/RemoteComputerInstance.png" width="700"> 
  
 
 ## Next steps
 
-Now you should have (at least) the basic idea about the different components of our course environment and what we mean by them. You don't need to 
-understand everything fully at this point as they will become clearer when we start using the course environment.  
+Now you should have (at least) a basic idea about the different components of our course environment and what they mean.
+You don't need to understand everything fully at this point as they will become clearer when we start using the course environment.  
 
-Next, we'll introduce to you how the course environment can be used. Continue by reading the 
-**[introduction to the course environment](intro-to-course-environment.md)**.  
-
+Next, we'll introduce to you how the course environment is used.
+Continue by reading the [introduction to the course environment](intro-to-course-environment.md).
