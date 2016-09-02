@@ -6,7 +6,7 @@ This needs to be done only once when the course starts.
 
 To activate your account, follow these steps:
 
- 1. **Follow the activation link that was send to you by the course lecturer** (example): 
+ 1. **Follow the activation link that was sent to you by the course lecturer** (example): 
  
     <img src="https://github.com/Python-for-geo-people/Intro-to-Python-I/blob/master/img/1_email_activation_link.PNG" width="400">
  
