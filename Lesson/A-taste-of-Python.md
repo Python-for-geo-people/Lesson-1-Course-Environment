@@ -2,18 +2,9 @@
 This tutorial is based on a the [Software Carpentry group's](http://software-carpentry.org/) lessons on [Programming with Python](http://swcarpentry.github.io/python-novice-inflammation/).
 
 ## Getting started
-1. Since [Anaconda is likely installing in the background](Anaconda.md), you should open a second Terminal window by clicking on the Dash Home icon at the top left corner of the screen, typing `terminal` into the search box, and clicking on the Terminal icon. Alternatively, you can right click on the existing Terminal icon and select **New Terminal**.
-2. I assume you have also already [downloaded and extracted the lesson data](Data.md), so you can navigate to the `Data` directory to start this lesson.
+1. We can start by opening a new IPython window. To do this, double-click on the IPython icon on the Desktop. You should see a new terminal window appear that looks like the one below.
 
-    ```bash
-    $ cd ~/Desktop/Lab-1/Data
-    ```
-Note the `$` symbol represents the command prompt in the Terminal window.
-3. Open a new IPython window.
-
-    ```bash
-    ipython
-    ```
+    ![IPython window](../img/IPython.png)
 
 Now we are ready to start.
 
