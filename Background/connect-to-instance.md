@@ -19,7 +19,7 @@ Select and copy only the numbers.
 We won't be using the rest of the information mentioned there. 
 That information is used for taking a specific type of connection (SSH) to the computer using the command prompt.
 
- ![Copy IP address of the computer instance](img/13_copy_access_IP_address.PNG)
+ ![Copy IP address of the computer instance](../img/13_copy_access_IP_address.PNG)
 
 ## Connect to computer instance on Windows
 
@@ -40,16 +40,16 @@ Details on how to connect with both pieces of software are given below.
 ## Connect to computer instance on MacOS
 The preferred way to connect to the computer instances on MacOS is to use the built-in connection tool in **Finder**.
 
-![Connect to server](img/connect-to-server.png)
+![Connect to server](../img/connect-to-server.png)
 
 Once the **Connect to Server** window appears, enter the address of the computer instance to connect in the format `vnc://XXX.XXX.XXX.XXX:5901`, replacing the `XXX.XXX.XXX.XXX` with the numbers you selected and copied above in the Computing Dashboard.
 
-![Enter server info](img/enter-server-info.png)
+![Enter server info](../img/enter-server-info.png)
 
 At this point you can click **Connect** and enter the password for the connection when prompted (`geoman`).
 Now you should see the desktop of your cloud computer!
 
-![Cloud desktop Mac](img/cloud-desktop-mac.png)
+![Cloud desktop Mac](../img/cloud-desktop-mac.png)
 
 ## Connect to computer instance on Linux
 
