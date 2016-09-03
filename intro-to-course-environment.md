@@ -26,7 +26,7 @@ You will do steps 1-4 below repeatedly during the course, so it will become fami
 
  1. [Log into the Computing Dashboard and launch a Computer Instance](launch-instance.md)
  
- 2. [Connect to Computer Instance from you local computer](connect-to-instance.md)
+ 2. [Connect to Computer Instance from your local computer](connect-to-instance.md)
  
  3. [Use Git and GitHub to download the course materials and save your work](intro-to-github.md)
  
