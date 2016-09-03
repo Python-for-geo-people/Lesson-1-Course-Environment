@@ -10,7 +10,7 @@ A port in a computer is a somewhat similar to the idea of having a door in a hou
  
  2. Sign in to the Computing Dashboard
  
-   ![Login to Computing Dashboard](img/7_log_in.PNG)
+   ![Login to Computing Dashboard](../img/7_log_in.PNG)
  
  3. `Launch new` computer instance
  
@@ -18,7 +18,7 @@ A port in a computer is a somewhat similar to the idea of having a door in a hou
  
  4. Wait until the instance is ready. You will first see a spinning gear under the **State**, the instance is ready when the gear turns into a checkmark. Now go to instance details by clicking on it's name (here the name is `pb-donna-the-blue`, but it changes every time).
  
-   ![Go to instance details](img/9_go_to_instance_details.PNG)
+   ![Go to instance details](../img/9_go_to_instance_details.PNG)
   
  5. Click on the `Query client IP` button
  
