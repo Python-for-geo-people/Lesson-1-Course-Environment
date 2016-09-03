@@ -7,12 +7,12 @@
 2. Paste the IP address of your computer instance that you copied in the [previous step](connect-to-instance.md#CopyIP) and add a port number `5901` 
 after the IP address separated with colon so that it will look like `xxx.xxx.xx.xxx:5901`
 
- ![Fill in the IP address](img/15b_copy-ip-address-connect.PNG)
+ ![Fill in the IP address](../img/15b_copy-ip-address-connect.PNG)
 
 3. Fill in the password `geoman` and  press **OK**
  
- ![Fill password](img/16b_fill-in-password.PNG)
+ ![Fill password](../img/16b_fill-in-password.PNG)
 
 4. That's it! You're inside the remote computer and ready to roll. 
  
-  ![Inside the remote computer](img/17_work_environment.PNG)
+  ![Inside the remote computer](../img/17_work_environment.PNG)
