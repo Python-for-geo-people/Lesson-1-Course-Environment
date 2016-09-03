@@ -6,12 +6,12 @@
   
  2. Paste the IP address of your computer instance that you copied in the [previous step](connect-to-instance.md#CopyIP) and press `Yhdistä` ('Connect' in English)
   
-  ![Fill in the IP address](img/15_paste_ip_to_remote_desktop.PNG)
+  ![Fill in the IP address](../img/15_paste_ip_to_remote_desktop.PNG)
   
  3. Login to the computer instance by pressing **OK**.
  
-  ![Press ok](img/16_log_into_server.PNG)
+  ![Press ok](../img/16_log_into_server.PNG)
  
  4. That's it! You're inside the remote computer and ready to roll. 
  
-  ![Inside the remote computer](img/17_work_environment.PNG)
+  ![Inside the remote computer](../img/17_work_environment.PNG)
