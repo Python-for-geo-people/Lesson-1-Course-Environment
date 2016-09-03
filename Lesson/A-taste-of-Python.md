@@ -53,7 +53,15 @@ For anything more advanced, we need to load a *library*.
     >>> math.sqrt(4)
     2.0
     ```
-A *library* is a group of code items such as functions that are related to one another. Libraries are loaded using `import`. Functions that are part of the library `libraryname` could then be used by typing `libraryname.functionname()`. For example, `sin()` is a function that is part of the `math` library, and used by typing `math.sin()` with some number between the parentheses.
+A *library* is a group of code items such as functions that are related to one another. Libraries are loaded using `import`. Functions that are part of the library `libraryname` could then be used by typing `libraryname.functionname()`. For example, `sin()` is a function that is part of the `math` library, and used by typing `math.sin()` with some number between the parentheses.<br/> <br/>
+Libraries may also contain constants such as `math.pi`.
+    ```python
+    >>> math.pi
+    3.141592653589793
+    >>> math.sin(math.pi)
+    1.2246467991473532e-16
+    ```
+
 4. Functions can also be combined.
 
     ```python
@@ -66,42 +74,42 @@ A *library* is a group of code items such as functions that are related to one a
 5. *Variables* can be used to store values calculated in expressions and used for other calculations.
 
     ```python
-    >>> weight_kg = 55
-    >>> print(weight_kg)
-    55
-    >>> print('weight in pounds:', 2.2 * weight_kg)
-    weight in pounds: 121.0
+    >>> temp_c = 10.0
+    >>> print(temp_c)
+    10.0
+    >>> print('temperature in Fahrenheit:', 9/5 * temp_c + 32)
+    temperature in Fahrenheit: 50.0
     ```
-Above, we also see one common format for *good* variable naming, separation of words by underscores `_` (e.g., `weight_kg`). This is called pothole_case_naming. We'll see another below.
+Above, we also see one common format for *good* variable naming, separation of words by underscores `_` (e.g., `temp_c`). This is called pothole_case_naming. We'll see another below.
 
 6. Values stored in *variables* can also be updated.
 
     ```python
-    >>> weight_kg = 57.5
-    >>> print('weight in kilograms is now:', weight_kg)
-    weight in kilograms is now: 57.5
-    >>> WeightInPounds = 2.2 * weight_kg
-    >>> print('weight in kilograms:', weight_kg, 'and in pounds:', WeightInPounds)
-    weight in kilograms: 57.5 and in pounds: 126.5
+    >>> temp_c = 15.0
+    >>> print('temperature in Celsius is now:', temp_c)
+    temperature in Celsius is now: 15.0
+    >>> TemperatureInFahrenheit = 9/5 * temp_c + 32
+    >>> print('temperature in Celsius:', temp_c, 'and in Fahrenheit:', TemperatureInFahrenheit)
+    temperature in Celsius: 15.0 and in Fahrenheit: 59.0
     ```
-An alternative to naming variables using pothole_case_naming is to use capital letters for each word with no spaces between (e.g., `WeightInPounds`). This is called CamelCaseNaming. Both options are easy to read and help you use *good* variable names. After all, *people* should be able to easily understand what different variables contain :+1:.
+An alternative to naming variables using pothole_case_naming is to use capital letters for each word with no spaces between (e.g., `TemperatureInFahrenheit`). This is called CamelCaseNaming. Both options are easy to read and help you use *good* variable names. After all, *people* should be able to easily understand what different variables contain :+1:.
 
 7. Note that changing the values of a variable does not affect those of other variables.
 
     ```python
-    >>> weight_kg = 100.0
-    >>> print('weight in kilograms is now:', weight_kg, 'and weight in pounds is still:', WeightInPounds)
-    weight in kilograms is now: 100.0 and weight in pounds is still: 126.5
+    >>> temp_c = 20.0
+    >>> print('temperature in Celsius is now:', temp_c, 'and temperature in Fahrenheit is still:', TemperatureInFahrenheit)
+    temperature in Celsius is now: 20.0 and temperature in Fahrenheit is still: 59.0
     ```
 
 8. One of nice options in IPython is that you can see which variables are in memory by typing `whos`.
 
     ```python
     >>> whos
-    Variable         Type     Data/Info
-    -----------------------------------
-    WeightInPounds   float    126.50000000000001
-    weight_kg        float    100.0
+    Variable                  Type      Data/Info
+    ---------------------------------------------
+    TemperatureInFahrenheit   float     59.0
+    temp_c                    float     20.0
     ```
 
 9. There are 4 basic *data types* in Python as shown in the table below.
@@ -110,18 +118,27 @@ An alternative to naming variables using pothole_case_naming is to use capital l
     | -------------- | -------------------- | --------------- |
     | `int`          | Whole integer values | `4`             |
     | `float`        | Decimal values       | `3.1415`        |
-    | `str`          | Character strings    | `'Korvapuusti'` |
+    | `str`          | Character strings    | `'Hot'` |
     | `bool`         | True/false values    | `True`          |
 The data types are displayed when using `whos`, but can also be found using the `type()` function. As you will see, the data types are important because some are not compatible with one another.
 
     ```python
-    >>> FavoriteTreat = 'Korvapuusti'
-    >>> type(FavoriteTreat)
+    >>> WeatherForecast = 'Hot'
+    >>> type(WeatherForecast)
     str
-    >>> type(WeightInPounds)
+    >>> type(TemperatureInFahrenheit)
     float
-    >>> WeightInPounds = WeightInPounds + 100.0 * FavoriteTreat
-    Traceback (most recent call last):
-      File "<stdin>", line 1, in <module>
+    >>> TemperatureInFahrenheit = TemperatureInFahrenheit + 5.0 * WeatherForecast
+    ---------------------------------------------------------------------------
+    TypeError                                 Traceback (most recent call last)
+    <ipython-input-21-7046bdc97a54> in <module>()
+    ----> 1 TemperatureInFahrenheit = TemperatureInFahrenheit + 5.0 * WeatherForecast
+
     TypeError: can't multiply sequence by non-int of type 'float'
     ```
+
+## Summary and the next steps
+That's it for today.
+We have seen a bit of what we can do in Python: basic arithmetic, using functions, defining variables and combining these things to put the computer to work for us.
+In the coming weeks we will explore each of these items, and many more, in greater detail to help develop your familiarity with Python and some basic programming skills.
+For now, you can move on to the [very short exercise for this week]().
