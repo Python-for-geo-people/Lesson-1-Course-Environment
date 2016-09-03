@@ -1,8 +1,8 @@
 # A taste of Python
 
- --- _**NOTE TO OURSELF:** This is now a tutorial for using the course environment and not any Python related per se. 
-These docs should maybe be located under a different repo. Anyway, the students need to know how to use the course environment the tutorial should be included already
-in the first weeks contents in [Course information](https://github.com/Python-for-geo-people/Course-information)_ ---   
+[//]: # (**NOTE TO OURSELF:** This is now a tutorial for using the course environment and not any Python related per se.)
+[//]: # (These docs should maybe be located under a different repo.)
+[//]: # (Anyway, the students need to know how to use the course environment the tutorial should be included already in the first weeks contents in [Course information](https://github.com/Python-for-geo-people/Course-information))
 
 The goal of the first half of the course is to introduce you to the basic concepts of computer programming in the Python programming language.
 We will start working toward that goal already this week with our first taste of programming in Python.
@@ -12,9 +12,10 @@ The main components of this first lesson are below.
 
 ## Tutorial components
 
- 1. [Basic concepts, components and workflow of the course environment](course-environment-components.md) 
- 2. [Introduction to the basic usage of the course environment](intro-to-course-environment.md)
- 3. [Our first taste of Python](A-taste-of-Python.md)
+ 1. [Basic concepts, components and, workflow of the course environment](Background/course-environment-components.md) 
+ 2. [Introduction to the basic usage of the course environment](Background/intro-to-course-environment.md)
+ 3. [Our first taste of Python](Lesson/A-taste-of-Python.md)
+ 4. [Exercise 1: Creating a Github.com account](Exercise/Exercise-1.md)
 
 ## Resources
 - Web pages
