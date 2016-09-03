@@ -63,4 +63,4 @@ Now you should have (at least) a basic idea about the different components of ou
 You don't need to understand everything fully at this point as they will become clearer when we start using the course environment.  
 
 Next, we'll introduce to you how the course environment is used.
-Continue by reading the [introduction to the course environment](Background/intro-to-course-environment.md).
+Continue by reading the [introduction to the course environment](intro-to-course-environment.md).

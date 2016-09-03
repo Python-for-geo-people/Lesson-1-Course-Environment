@@ -9,7 +9,7 @@ The first and biggest motivation is to encourage and push you to learn how to us
 The second reason is a more practical one: at the moment there is no way to permanently store your codes and data to the 
 cloud computing environment that we are using in this course.
 
-We will not be saving anything to the [GitHub.com](https://www.github.com) site this week, but in the future you can refer to the [instructions for using GitHub](Background/intro-to-github.md).
+We will not be saving anything to the [GitHub.com](https://www.github.com) site this week, but in the future you can refer to the [instructions for using GitHub](intro-to-github.md).
  
 ## Destroy the computer instance
 

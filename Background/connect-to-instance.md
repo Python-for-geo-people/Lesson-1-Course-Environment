@@ -34,8 +34,8 @@ However, it is highly recommendable option since it can be used from any Windows
 
 Details on how to connect with both pieces of software are given below.
 
-1. [Connecting with the TightVNC Viewer software](Background/connect-win-vnc.md)
-2. [Connecting with the Remote Desktop Connection tool](Background/connect-win-rdp.md)
+1. [Connecting with the TightVNC Viewer software](connect-win-vnc.md)
+2. [Connecting with the Remote Desktop Connection tool](connect-win-rdp.md)
 
 ## Connect to computer instance on MacOS
 The preferred way to connect to the computer instances on MacOS is to use the built-in connection tool in **Finder**.

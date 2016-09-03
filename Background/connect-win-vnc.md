@@ -4,7 +4,7 @@
 
  <img src="https://github.com/Python-for-geo-people/Intro-to-Python-I/blob/master/img/14b_start_TightVNC.png" width="300">
   
-2. Paste the IP address of your computer instance that you copied in the [previous step](Background/connect-to-instance.md#CopyIP) and add a port number `5901` 
+2. Paste the IP address of your computer instance that you copied in the [previous step](connect-to-instance.md#CopyIP) and add a port number `5901` 
 after the IP address separated with colon so that it will look like `xxx.xxx.xx.xxx:5901`
 
  ![Fill in the IP address](img/15b_copy-ip-address-connect.PNG)

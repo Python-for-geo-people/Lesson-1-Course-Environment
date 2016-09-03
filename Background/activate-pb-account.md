@@ -2,7 +2,7 @@
 
 The first time using the course environment, it is necessary to activate your Pouta Blueprints account and create your password. 
 This needs to be done only once when the course starts.
-**Note**: If you already have activated your account you can continue with [launching a new computer instance](Background/launch-instance.md).
+**Note**: If you already have activated your account you can continue with [launching a new computer instance](launch-instance.md).
 
 To activate your account, follow these steps:
 
@@ -31,4 +31,4 @@ To activate your account, follow these steps:
     ![Log out](img/6_log_out.PNG)
     
 
-After completing these steps you will be done with activating your account and can continue with **[launching your first Computer Instance](Background/launch-instance.md)**.
+After completing these steps you will be done with activating your account and can continue with **[launching your first Computer Instance](launch-instance.md)**.
