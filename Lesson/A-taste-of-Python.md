@@ -40,7 +40,7 @@ We will start our Python lesson by learning a bit of the basic operations you ca
     | Operation      | Symbol | Example syntax | Returned value |
     | -------------- | ------ | ---------------|----------------|
     | Addition       | `+`    | `2 + 2`        | `4`            |
-    | Subtraction    | `-`    | `4 + 2`        | `2`            |
+    | Subtraction    | `-`    | `4 - 2`        | `2`            |
     | Multiplication | `*`    | `2 * 3`        | `6`            |
     | Division       | `/`    | `4 / 2`        | `2`            |
     | Exponentiation | `**`   | `2**3`         | `8`            |
