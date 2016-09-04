@@ -74,22 +74,22 @@ Libraries may also contain constants such as `math.pi`.
 5. *Variables* can be used to store values calculated in expressions and used for other calculations.
 
     ```python
-    >>> temp_c = 10.0
-    >>> print(temp_c)
+    >>> temp_celsius = 10.0
+    >>> print(temp_celsius)
     10.0
-    >>> print('temperature in Fahrenheit:', 9/5 * temp_c + 32)
+    >>> print('temperature in Fahrenheit:', 9/5 * temp_celsius + 32)
     temperature in Fahrenheit: 50.0
     ```
-Above, we also see one common format for *good* variable naming, separation of words by underscores `_` (e.g., `temp_c`). This is called pothole_case_naming. We'll see another below.
+Above, we also see one common format for *good* variable naming, separation of words by underscores `_` (e.g., `temp_celsius`). This is called pothole_case_naming. We'll see another below.
 
 6. Values stored in *variables* can also be updated.
 
     ```python
-    >>> temp_c = 15.0
-    >>> print('temperature in Celsius is now:', temp_c)
+    >>> temp_celsius = 15.0
+    >>> print('temperature in Celsius is now:', temp_celsius)
     temperature in Celsius is now: 15.0
-    >>> TemperatureInFahrenheit = 9/5 * temp_c + 32
-    >>> print('temperature in Celsius:', temp_c, 'and in Fahrenheit:', TemperatureInFahrenheit)
+    >>> TemperatureInFahrenheit = 9/5 * temp_celsius + 32
+    >>> print('temperature in Celsius:', temp_celsius, 'and in Fahrenheit:', TemperatureInFahrenheit)
     temperature in Celsius: 15.0 and in Fahrenheit: 59.0
     ```
 An alternative to naming variables using pothole_case_naming is to use capital letters for each word with no spaces between (e.g., `TemperatureInFahrenheit`). This is called CamelCaseNaming. Both options are easy to read and help you use *good* variable names. After all, *people* should be able to easily understand what different variables contain :+1:.
@@ -97,19 +97,19 @@ An alternative to naming variables using pothole_case_naming is to use capital l
 7. Note that changing the values of a variable does not affect those of other variables.
 
     ```python
-    >>> temp_c = 20.0
-    >>> print('temperature in Celsius is now:', temp_c, 'and temperature in Fahrenheit is still:', TemperatureInFahrenheit)
+    >>> temp_celsius = 20.0
+    >>> print('temperature in Celsius is now:', temp_celsius, 'and temperature in Fahrenheit is still:', TemperatureInFahrenheit)
     temperature in Celsius is now: 20.0 and temperature in Fahrenheit is still: 59.0
     ```
 
-8. One of nice options in IPython is that you can see which variables are in memory by typing `whos`.
+8. One of the nice options in IPython is that you can see which variables are in memory by typing `%whos`.
 
     ```python
-    >>> whos
+    >>> %whos
     Variable                  Type      Data/Info
     ---------------------------------------------
     TemperatureInFahrenheit   float     59.0
-    temp_c                    float     20.0
+    temp_celsius              float     20.0
     ```
 
 9. There are 4 basic *data types* in Python as shown in the table below.
@@ -118,9 +118,9 @@ An alternative to naming variables using pothole_case_naming is to use capital l
     | -------------- | -------------------- | --------------- |
     | `int`          | Whole integer values | `4`             |
     | `float`        | Decimal values       | `3.1415`        |
-    | `str`          | Character strings    | `'Hot'` |
+    | `str`          | Character strings    | `'Hot'`         |
     | `bool`         | True/false values    | `True`          |
-The data types are displayed when using `whos`, but can also be found using the `type()` function. As you will see, the data types are important because some are not compatible with one another.
+The data types are displayed when using `%whos`, but can also be found using the `type()` function. As you will see, the data types are important because some are not compatible with one another.
 
     ```python
     >>> WeatherForecast = 'Hot'
