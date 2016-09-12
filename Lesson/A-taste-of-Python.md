@@ -4,7 +4,7 @@ This tutorial is based on a the [Software Carpentry group's](http://software-car
 ## Getting started
 1. We can start by opening a new IPython window. To do this, double-click on the IPython icon on the Desktop. You should see a new terminal window appear that looks like the one below.
 
-    ![IPython window](../img/IPython.png)
+![IPython window](../img/IPython.png)
 
 Now we are ready to start.
 
