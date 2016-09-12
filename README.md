@@ -12,7 +12,7 @@ The main components of this first lesson are below.
 
 ## Tutorial components
 
- 1. [Basic concepts, components and, workflow of the course environment](Background/course-environment-components.md) 
+ 1. [Basic concepts, components and, workflow of the course environment](https://github.com/Python-for-geo-people/A-taste-of-Python/blob/master/Background/course-environment-components.md) 
  2. [Introduction to the basic usage of the course environment](Background/intro-to-course-environment.md)
  3. [Our first taste of Python](Lesson/A-taste-of-Python.md)
  4. [Exercise 1: Creating a Github.com account and using the cloud](https://github.com/Python-for-geo-people/Exercise-1)
