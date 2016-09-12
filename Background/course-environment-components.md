@@ -55,7 +55,7 @@ We will be using actively all of the aforementioned components, i.e., we will:
  4. Download the course materials from GitHub
  5. Save your work permanently to GitHub after every lecture or practical exercise
   
- <img src="https://github.com/Python-for-geo-people/Intro-to-Python-I/blob/master/img/RemoteComputerInstance.png" width="700"> 
+<img src="https://github.com/Python-for-geo-people/Intro-to-Python-I/blob/master/img/RemoteComputerInstance.png" width="700"> 
 
 ## Next steps
 
