@@ -1,4 +1,4 @@
-# A taste of Python
+# Lesson 1: A taste of Python
 
 [//]: # (**NOTE TO OURSELF:** This is now a tutorial for using the course environment and not any Python related per se.)
 [//]: # (These docs should maybe be located under a different repo.)
