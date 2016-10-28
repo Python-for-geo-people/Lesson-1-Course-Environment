@@ -141,7 +141,6 @@ The data types are displayed when using `%whos`, but can also be found using the
 That's it for today.
 We have seen a bit of what we can do in Python: basic arithmetic, using functions, defining variables and combining these things to put the computer to work for us.
 In the coming weeks we will explore each of these items, and many more, in greater detail to help develop your familiarity with Python and some basic programming skills.
-For now, you can move on to the [very short exercise for this week](https://github.com/Python-for-geo-people/Exercise-1).
 
 ## 
 **Next**: [Exercise 1: Creating a Github.com account and using the cloud](https://github.com/Python-for-geo-people/Exercise-1)<br/>
