@@ -57,10 +57,12 @@ We will be using actively all of the aforementioned components, i.e., we will:
   
 <img src="https://github.com/Python-for-geo-people/Intro-to-Python-I/blob/master/img/RemoteComputerInstance.png" width="700"> 
 
-## Next steps
+## Page summary
 
 Now you should have (at least) a basic idea about the different components of our course environment and what they mean.
 You don't need to understand everything fully at this point as they will become clearer when we start using the course environment.  
 
 Next, we'll introduce to you how the course environment is used.
-Continue by reading the [introduction to the course environment](intro-to-course-environment.md).
+
+Up next: [Introduction to the course environment](intro-to-course-environment.md)<br/>
+Home: [Lesson 1 main page](https://github.com/Python-for-geo-people/Lesson-1-Course-Environment/)
