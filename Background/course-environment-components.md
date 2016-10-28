@@ -64,5 +64,5 @@ You don't need to understand everything fully at this point as they will become 
 
 Next, we'll introduce to you how the course environment is used.
 
-Up next: [Introduction to the course environment](intro-to-course-environment.md)<br/>
-Home: [Lesson 1 main page](https://github.com/Python-for-geo-people/Lesson-1-Course-Environment/)
+**Up next**: [Introduction to the course environment](intro-to-course-environment.md)<br/>
+**Home**: [Lesson 1 main page](https://github.com/Python-for-geo-people/Lesson-1-Course-Environment/)
