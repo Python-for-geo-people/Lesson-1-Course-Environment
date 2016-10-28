@@ -32,5 +32,7 @@ A port in a computer is a somewhat similar to the idea of having a door in a hou
  
 <img src="https://github.com/Python-for-geo-people/Intro-to-Python-I/blob/master/img/12_go_back_to_dashboard.PNG" width="500">
 
-## The next step...
-With the new instance created, we can move on to [connecting to it](connect-to-instance.md).
+## 
+**Next**: [Connecting to a computer instance](connect-to-instance.md)<br/>
+**Home**: [Lesson 1 main page](https://github.com/Python-for-geo-people/Lesson-1-Course-Environment/)<br/>
+**Previous**: [Introduction to the course environment](intro-to-course-environment.md)
