@@ -33,6 +33,6 @@ You will do steps 1-4 below repeatedly during the course, so it will become fami
  4. [When finished working, destroy the Computer Instance](destroy-instance.md)
 
 ## 
-**Up next**: [Launching a computer instance](launch-instance.md)<br/>
+**Next**: [Launching a computer instance](launch-instance.md)<br/>
 **Home**: [Lesson 1 main page](https://github.com/Python-for-geo-people/Lesson-1-Course-Environment/)<br/>
 **Previous**: [Components of the course environment](course-environment-components.md)
