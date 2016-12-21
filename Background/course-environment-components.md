@@ -53,7 +53,7 @@ We will be using actively all of the aforementioned components, i.e., we will:
  2. Launch a Computer Instance
  3. Connect to our temporary remote computer instance
  4. Download the course materials from GitHub
- 5. Save your work permanently to GitHub after every lecture or practical exercise
+ 5. Save our work permanently to GitHub after every lecture or practical exercise
   
 <img src="https://github.com/Python-for-geo-people/Intro-to-Python-I/blob/master/img/RemoteComputerInstance.png" width="700"> 
 
