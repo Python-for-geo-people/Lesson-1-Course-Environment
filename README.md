@@ -2,7 +2,7 @@
 
 [//]: # (**NOTE TO OURSELF:** This is now a tutorial for using the course environment and not any Python related per se.)
 [//]: # (These docs should maybe be located under a different repo.)
-[//]: # (Anyway, the students need to know how to use the course environment the tutorial should be included already in the first weeks contents in [Course information](https://github.com/Python-for-geo-people/Course-information))
+[//]: # (Anyway, the students need to know how to use the course environment the tutorial should be included already in the first weeks contents in Course information)
 
 The goal of the first half of the course is to introduce you to the basic concepts of computer programming in the Python programming language.
 We will start working toward that goal already this week with our first taste of programming in Python.
